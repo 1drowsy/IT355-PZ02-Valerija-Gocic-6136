@@ -1,9 +1,5 @@
 # Sistem za zakazivanje i upravljanje kozmetičkim salonom
 
-**Predmet:** IT355 — Veb sistemi 2
-**Zadatak:** Drugi projektni zadatak — Full-Stack aplikacija (Spring Boot + React)
-**Student:** Valerija Gocić 6136
-
 Full-stack web aplikacija za online zakazivanje termina u kozmetičkom salonu.
 Backend je REST API napisan u Spring Boot-u sa JWT autentifikacijom i RBAC
 autorizacijom, a frontend je React SPA koji komunicira isključivo preko REST-a.
