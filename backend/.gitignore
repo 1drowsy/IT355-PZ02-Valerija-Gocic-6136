@@ -1,0 +1,13 @@
+target/
+*.log
+
+# IDE
+.idea/
+*.iml
+.settings/
+.classpath
+.project
+.vscode/
+
+# NAPOMENA: mvnw, mvnw.cmd i .mvn/ SE COMMIT-UJU u repozitorijum
+# (Maven wrapper - omogucava pokretanje projekta bez instaliranog Maven-a).
