@@ -4,9 +4,6 @@ Full-stack web aplikacija za online zakazivanje termina u kozmetičkom salonu.
 Backend je REST API napisan u Spring Boot-u sa JWT autentifikacijom i RBAC
 autorizacijom, a frontend je React SPA koji komunicira isključivo preko REST-a.
 
-> **Kompletna dokumentacija je u [dokumentacija/DOKUMENTACIJA.md](dokumentacija/DOKUMENTACIJA.md)**
-> (opis sistema, model baze, spisak svih endpointa, priprema za odbranu).
-
 ---
 
 ## Brzo pokretanje
